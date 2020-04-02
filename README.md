@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img alt="Bootcamp GoStack" src="https://user-images.githubusercontent.com/26943148/78179536-c1b35480-7437-11ea-9638-b5fec3df9f8e.png" />
+    <img alt="Semana Omnistack" src="https://user-images.githubusercontent.com/26943148/78200914-89773a80-7466-11ea-8f5e-ac96b9d9db3c.png" />
+    <br />
     <br />
     Semana OmniStack - TinDev
 </h1>
